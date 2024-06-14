@@ -62,6 +62,8 @@ div.pullLeft a:hover:before
 
 .ime {
     font-family: 'tinavlasicregular';
+ font-weight: normal;
+    font-style: normal;
     background-color: rgba(222, 231, 240, 0.555);
     background-blend-mode: hard-light;
     display: inline-block; 
