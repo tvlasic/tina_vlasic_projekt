@@ -61,9 +61,7 @@ div.pullLeft a:hover:before
 }
 
 .ime {
-    font-family: 'tinavlasicregular';
- font-weight: normal;
-    font-style: normal;
+    
     background-color: rgba(222, 231, 240, 0.555);
     background-blend-mode: hard-light;
     display: inline-block; 
@@ -72,7 +70,11 @@ div.pullLeft a:hover:before
     left: 40px;
     position: relative;
 }
-    
+.ime2 {
+	font-family: 'tinavlasicregular';
+ font-weight: normal;
+    font-style: normal;
+}
 
 
 
